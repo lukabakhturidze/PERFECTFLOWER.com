@@ -1,0 +1,20 @@
+@font-face{
+    font-family:"Cinzel-400", serif;
+    src:url("../fonts/Cinzel-Regular.ttf");
+}
+@font-face{
+    font-family:"Cinzel-700", serif;
+    src:url("../fonts/Cinzel-Medium.ttf");
+}
+@font-face{
+    font-family:"Cinzel-900", serif;
+    src:url("../fonts/Cinzel-Black.ttf");
+}
+@font-face{
+    font-family:"opensans-400", serif;
+    src:url("../fonts/OpenSans-Regular.ttf");
+}
+@font-face{
+    font-family:"opensans-600", sans-serif;
+    src:url("../fonts/OpenSans-SemiBold.ttf");
+}
